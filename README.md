@@ -1,4 +1,4 @@
-# zekharia-Personal-Tweet-Analysis
+#Personal-Tweet-Analysis
 
 Personal Tweet Analysis
 In this project, we explore a personal Twitter archive with a focus on meaningful insights drawn from years of tweet history. This analysis provides a way to look back on your own social media habits, revealing patterns in emoji use, tweet frequency over time, and more subtle trends in how and when you’ve engaged with Twitter. By digging into tweet content, we can see how online behavior evolves over time and understand our own digital footprints better.
