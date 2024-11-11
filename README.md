@@ -43,15 +43,7 @@ By breaking down emojis used in tweets, this analysis finds which emojis you fav
 Activity Patterns and Insights:
 
 Interactive plots show tweet frequencies by month or year, allowing for a more granular look at your engagement patterns. Peaks might reflect periods when you were particularly active or inspired, while quieter periods could indicate shifts in focus or lifestyle changes.
-Example Visualization
-Below is an example of how a timeline visualization of tweet activity can look:
 
-python
-Copy code
-import plotly.express as px
-
-fig = px.histogram(df, x='created_at', title="Tweet Activity Over Time")
-fig.show()
 Setup
 To recreate this analysis, the following packages are needed:
 
